@@ -39,7 +39,7 @@ This project explores what makes an Airbnb listing successful by analyzing data 
 ## 💡 Key Findings
 
 - **Superhost status** was a strong predictor of high review volume across both cities.
-- In **Stockholm**, guests valued practical amenities—washing machines, dishwashers, and kitchens stood out.
+- In **Stockholm**, guests valued practical amenities: washing machines, dishwashers, and kitchens stood out.
 - In **Sydney**, comfort and experience-oriented features like pools and stylish decor were more influential.
 - **Positive sentiment** in reviews closely tracked with higher ratings. Common keywords in top reviews included _clean_, _cozy_, and _comfortable_; low-rated listings often included _dirty_, _cramped_, or _noisy_.
 
@@ -48,6 +48,3 @@ This project explores what makes an Airbnb listing successful by analyzing data 
 By combining structured data modeling with unstructured review text, this project highlights how hosts can tailor listings to maximize guest satisfaction and engagement. It also demonstrates the value of aligning data science techniques with real-world business questions in the short-term rental market.
 
 ---
-
-**Interested in more?**  
-Check out the Tableau dashboards or Jupyter notebooks in this repo to explore the data and models yourself.
