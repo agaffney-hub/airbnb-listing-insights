@@ -11,7 +11,7 @@ This project explores what makes an Airbnb listing successful by analyzing data 
 
 ## 🧰 Tools & Technologies
 
-- **Python**: pandas, NumPy, scikit-learn, seaborn, NLTK, TextBlob
+- **Python**: pandas, NumPy, scikit-learn, seaborn, NLTK
 - **Alteryx**: Data joins, handling nulls, transforming categorical fields
 - **Tableau**: Dashboards and visual exploration
 - **Excel**: Quick summaries and model output checks
