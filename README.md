@@ -2,6 +2,8 @@
 
 This project explores what makes an Airbnb listing successful by analyzing data from Stockholm, Sweden and Sydney, Australia. Using statistical modeling, sentiment analysis, and feature engineering, we identified patterns in listing attributes and guest reviews that correlate with higher engagement and review volume.
 
+📎 **[View Final Presentation](https://docs.google.com/presentation/d/1wlBCm0O346PdRUMouf3RqVSRVr2Ti6lLwWI5b_cYmJc/edit?usp=sharing)**
+
 ## 📌 Project Goals
 
 - Predict listing performance using review count as a proxy for guest interest.
